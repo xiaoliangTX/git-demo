@@ -14,3 +14,4 @@ hello world! master
 hello world! hot-fix
 11111111111111111111
 ssh pull test
+ssh push test
